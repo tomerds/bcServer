@@ -1,0 +1,8 @@
+{
+  "name": "bcServer",
+  "version": "1.0.0",
+  "description": "server for blooming chapina",
+  "main": "index.js",
+  "author": "Tomer du Sautoy",
+  "license": "MIT"
+}
